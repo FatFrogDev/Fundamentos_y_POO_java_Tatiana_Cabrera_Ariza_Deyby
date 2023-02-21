@@ -1,0 +1,1 @@
+Saludo, en esta sección, "main" corresponde al ejecicio resuelto sin condicionales
